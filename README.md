@@ -5,10 +5,10 @@
 
 - 🌱 I’m currently learning **NodeJs and PHP**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ductt7575.github.io/trongduc-porfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ductt7575.github.io/my-portfolio/)
 - 📫 How to reach me **duc28072003@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19IUzseN5wxSh0R42MLE6Ie2Sa7XHy4He/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Z7dnB0KwxQVT4uNMm1sunmeNveqRM042/view)
 
 - ⚡ Fun fact **I am very handsome**
 <p align="center">
